@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { getVideos } from '@/entities/video/videos-api.js'
+import { getVideos } from '@/entities/video/video-api.js'
 
 import VideoCard from '@/widgets/video-card/VideoCard.jsx'
 
