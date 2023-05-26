@@ -1,0 +1,8 @@
+.videos-filter-opener__icon {
+  transform: rotate(90deg);
+  transition: transform 0.2s;
+}
+
+.videos-filter-opener--active .videos-filter-opener__icon {
+  transform: rotate(0);
+}
